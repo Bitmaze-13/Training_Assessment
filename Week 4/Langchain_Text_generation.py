@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/10jqjuzJSG9BsgnGpfjdGlYNrdZnhh-0E
 """
 
-!pip install transformers langchain langchain-community torch huggingface_hub
+# !pip install transformers langchain langchain-community torch huggingface_hub
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
